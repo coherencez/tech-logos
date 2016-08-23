@@ -2,7 +2,9 @@
 
 ### Currently:
 1. angular
+2. babel
 2. bower
+3. browserify
 3. css3
 4. firebase
 5. github
@@ -16,6 +18,7 @@
 13. mongo DB
 14. nodejs
 15. npm
+16. postgres
 16. tape
 
 
