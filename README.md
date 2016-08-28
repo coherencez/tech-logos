@@ -18,7 +18,6 @@
 11. javascript
 12. mocha
 13. mongo DB
-13. neat
 14. nodejs
 15. npm
 16. postgres
