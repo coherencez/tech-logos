@@ -8,6 +8,7 @@
 3. browserify
 3. css3
 4. firebase
+5. full mean stack
 5. github
 6. grunt
 7. gulp
