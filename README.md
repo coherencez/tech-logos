@@ -15,13 +15,14 @@
 1. [firebase ](firebase.png)<img src="firebase.png" height="40">
 1. [full mean stack ](fullMean.png)<img src="fullMean.png" height="40">
 1. [github ](github.png)<img src="github.png" height="40">
+2. [git-fork ](git.png)<img src="git.png" height="40">
 1. [grunt ](grunt.ong.png)<img src="grunt.ong.png" height="40">
 1. [gulp ](gulp.png)<img src="gulp.png" height="40">
 1. [html5 ](html5.png)<img src="html5.png" height="40">
-1. [jade ](jade.png)<img src="jade.png" height="40">
 1. [jasmine svg ](jasmine.svg)<img src="jasmine.svg" height="40">
 1. [javascript ](jslogo.png)<img src="jslogo.png" height="40">
 1. [jquery ](jquery.png)<img src="jquery.png" height="40">
+1. [jquery-dark ](jq2.png)<img src="jq2.png" height="40">
 1. [mocha ](mocha.png)<img src="mocha.png" height="40">
 1. [mongo DB ](mongo.png)<img src="mongo.png" height="40">
 1. [nodejs svg ](nodejs.svg)<img src="nodejs.svg" height="40">
