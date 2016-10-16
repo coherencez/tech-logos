@@ -3,6 +3,7 @@
 ### Currently:
 
 1. [angular ](angular.png)<img src="angular.png" height="40">
+1. [arduino ](arduino.png)<img src="arduino.png" height="40">
 1. [babel ](babel.png)<img src="babel.png" height="40">
 1. [bootstrap ](bootstrap.png)<img src="bootstrap.png" height="40">
 1. [bourbon logo only ](bourbon-logo.png)<img src="bourbon-logo.png" height="40">
@@ -46,7 +47,6 @@
 1. [socket.io ](socketio.png)<img src="socketio.png" height="40">
 1. [tape ](tape.png)<img src="tape.png" height="40">
 1. [yeoman ](yeoman-logo.png)<img src="yeoman-logo.png" height="40">
-1. [arduino ](arduino.png)<img src="arduino.png" height="40">
 
 
 ### Feel free to add your own, just make a PR!
