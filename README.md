@@ -46,9 +46,10 @@
 1. [socket.io ](socketio.png)<img src="socketio.png" height="40">
 1. [tape ](tape.png)<img src="tape.png" height="40">
 1. [yeoman ](yeoman-logo.png)<img src="yeoman-logo.png" height="40">
+1. [arduino ](arduino.png)<img src="arduino.png" height="40">
 
 
-### Feel free to add your own, just make a PR!  
+### Feel free to add your own, just make a PR!
 
 PS - the SVG files don't work here (and most likely in your repo) due to an issue on Github:
 https://github.com/isaacs/github/issues/316 but should work fine if you download them
@@ -57,14 +58,14 @@ for use on your site.
 ***
 ### Adding to the List
 #### Formatting
-Display:  
-1. [angular](angular.png)<img src="angular.png" height="40">  
+Display:
+1. [angular](angular.png)<img src="angular.png" height="40">
 
-Markup:  
+Markup:
 **`1. [angular](angular.png)<img src="angular.png" height="40">  `**
 
-Format:  
-**`1. [text to display](imageName.file)<imc src="imageName.file" height="desired height in pixels">`**  
+Format:
+**`1. [text to display](imageName.file)<imc src="imageName.file" height="desired height in pixels">`**
 * The "1." at the beginning of the line stays the same throughout the list (markup knows to increment for you)
 * The two instances of (imageName.file) are doing different things:
   1. **`[angular](angular.png)`** - sets it as a link to the github source file page (then you'll want to right click and copy img location)
